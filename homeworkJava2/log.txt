@@ -1,0 +1,6 @@
+апр. 03, 2023 9:06:46 PM homeworkJava2.task1 loggerSettings
+INFO: Тестовое логирование 
+апр. 03, 2023 9:06:46 PM homeworkJava2.task1 parsing
+INFO: Строка разделена!
+апр. 03, 2023 9:06:46 PM homeworkJava2.task1 parsing
+INFO: Данные из строки получены
